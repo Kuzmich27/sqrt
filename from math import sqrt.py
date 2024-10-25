@@ -1,7 +1,7 @@
 from math import sqrt
 
-x_int = 10
-y_int = 5
+x_int = 100
+y_int = 50
 
 
 def add_numbers(x_int, y_int):
